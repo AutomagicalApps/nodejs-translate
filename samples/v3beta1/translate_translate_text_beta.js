@@ -17,7 +17,7 @@
 
 function main(
   projectId = 'YOUR_PROJECT_ID',
-  location = 'global',
+  location = 'us-central1',
   text = 'text to translate'
 ) {
   // [START translate_translate_text_beta]
